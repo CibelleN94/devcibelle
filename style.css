@@ -1,0 +1,18 @@
+
+
+body {
+    background-color: rgb(253, 153, 198);
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: beige;
+}
+
+div#imagens {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+}
